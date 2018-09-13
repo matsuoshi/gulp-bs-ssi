@@ -6,14 +6,8 @@
   "scripts": {
     "start": "gulp",
     "build": "gulp build",
-    "serve": "gulp serve",
-    "watch": "gulp watch"
+    "serve": "gulp serve"
   },
-  "browserslist": [
-    "last 2 versions",
-    "ie >= 11",
-    "Android >= 4.4"
-  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
