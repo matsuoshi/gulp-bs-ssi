@@ -65,7 +65,8 @@ gulp.task('serve', (done) => {
         baseDir: DIR.base,
         ext: '.html'
       })
-    }
+    },
+    startPath: '/'
   });
 
   // watch SCSS
